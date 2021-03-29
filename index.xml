@@ -22,17 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://texasbutterfliesmonitoring.org/contact/</guid>
-      <description>Contact the Texas Butterfly Monitoring Network butterflymonitorstx@gmail.com </description>
-    </item>
-    
-    <item>
-      <title>Newsletter</title>
-      <link>https://texasbutterfliesmonitoring.org/newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://texasbutterfliesmonitoring.org/newsletter/</guid>
-      <description>Spring 2021 Newsletter Welcome to the 2021 Butterfly Monitoring Season! Whether you&amp;rsquo;re brand new to butterfly monitoring or have monitored your route for some time, welcome!
-Depending on your geographical location and the weather, you have either already started monitoring, or will be starting soon. Enjoy these early days of Spring, and remember, even if you see no butterflies during your first (or any) survey, do enter that into Pollardbase. Absence of butterflies is also data!</description>
+      <description>butterflymonitorstx@gmail.com </description>
     </item>
     
     <item>
@@ -42,6 +32,16 @@ Depending on your geographical location and the weather, you have either already
       
       <guid>https://texasbutterfliesmonitoring.org/resources/</guid>
       <description>Resources for Monitors    PollardBase website    Creating a Route with Google Earth    Creating a Route with Google Maps    Recording Data in Pollardbase    TBMN Data Sheet   Live Q&amp;amp;A on using Google Earth to document a route  Sun, Mar 28th, 3 pm https://zoom.us/j/95065570306?pwd=b3NhSTBLV0dmeERhWDJxUUpGYURydz09  Live Q&amp;amp;A Sessions for New Monitors  Tue, Apr 6th 7:30 - 8:00 pm CDT</description>
+    </item>
+    
+    <item>
+      <title>Spring 2021 Newsletter</title>
+      <link>https://texasbutterfliesmonitoring.org/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://texasbutterfliesmonitoring.org/newsletter/</guid>
+      <description>Welcome to the 2021 Butterfly Monitoring Season! Whether you&amp;rsquo;re brand new to butterfly monitoring or have monitored your route for some time, welcome!
+Depending on your geographical location and the weather, you have either already started monitoring, or will be starting soon. Enjoy these early days of Spring, and remember, even if you see no butterflies during your first (or any) survey, do enter that into Pollardbase. Absence of butterflies is also data!</description>
     </item>
     
   </channel>
