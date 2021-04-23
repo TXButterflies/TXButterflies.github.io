@@ -14,18 +14,6 @@ title = "Resources for Monitors"
 
 - {{< resource "TBMN Data Sheet" "/TBMN Data Sheet.pdf" >}}
 
-## Live Q&A Sessions for New Monitors
-
-None currently scheduled.  Request one if you need it.
-
-## Optional Check In for Monitors and Scribes who have a route in Pollardbase
-
-- Thu, Apr 22nd, 7:30 - 8:00 pm  
-https://us04web.zoom.us/j/75861447083?pwd=dEhVRHNocVJyckEvMEtTbmZ6WjFTZz09  
-Meeting ID: 758 6144 7083
-
-If no one comes to this meeting in the first 10 minutes, I will end the meeting.
-
 ## Identification Resources
 
 - {{< resource "NABA Regional Butterfly Garden Guides" "http://nababutterfly.com/regional-butterfly-garden-guides/" >}}
