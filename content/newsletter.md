@@ -14,6 +14,6 @@ Rebeca Leininger is handling establishing routes in Pollardbase.  Those of you w
 
 During 2021, more than 800 surveys were entered by 66 butterfly monitors (not including scribes) along 65 routes!
 
-That's it for this newsletter.  Check back around September for the Summer issue with an update on the 2021 monitoring effort, and perhaps a photo or two!
+That's it for this newsletter.  Check back around September for the Summer issue with an update on the 2022 monitoring effort, and perhaps a photo or two!
 
 Irmi Willcockson
